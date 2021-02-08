@@ -14,7 +14,7 @@
 
     <!-- Estilos customizados para esse template -->
     
-    <link rel="stylesheet" href="C:\Users\Cristiano\Documents\Site Mare Motos\bootstrap\bootstrap-4.5.2-dist\css\bootstrap.min.css" >
+    <link rel="stylesheet" href="Views\style\framework\bootstrap\bootstrap-4.5.2-dist\css\bootstrap.min.css" >
     
   </head>
   <body>
@@ -22,7 +22,7 @@
     <header>
       <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark" style="padding: 0.1rem 1rem">
         <a class="navbar-brand" style="line-height: 3" href="#">
-        <img style="margin-right:15px" src="C:\Users\Cristiano\Desktop\favicon.svg" width="60" height="60" class="d-inline-block align-top" alt="" loading="lazy"/>
+        <img style="margin-right:15px" src="Midias\img\favicon\favicon-moto.png" width="60" height="60" class="d-inline-block align-top" alt="" loading="lazy"/>
         Maré Motos
         </a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
@@ -57,13 +57,13 @@
       </ol>
       <div class="carousel-inner">
         <div class="carousel-item active" >
-          <img src="C:\Users\Cristiano\Documents\Site Mare Motos\img\img_slider\Sem título-2.jpg" style="margin-top: 70px" class="d-block w-100" alt="...">
+          <img src="Midias\img\img_slider\Sem título-2.jpg" style="margin-top: 70px" class="d-block w-100" alt="...">
         </div>
         <div class="carousel-item">
-          <img src="C:\Users\Cristiano\Documents\Site Mare Motos\img\img_slider\Sem título-3.jpg" style="margin-top: 70px"  class="d-block w-100" alt="...">
+          <img src="Midias\img\img_slider\Sem título-3.jpg" style="margin-top: 70px"  class="d-block w-100" alt="...">
         </div>
         <div class="carousel-item">
-          <img src="C:\Users\Cristiano\Documents\Site Mare Motos\img\img_slider\Sem título-4.jpg" style="margin-top: 70px" class="d-block w-100" alt="...">
+          <img src="Midias\img\img_slider\Sem título-4.jpg" style="margin-top: 70px" class="d-block w-100" alt="...">
         </div>
       </div>
       <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
@@ -89,7 +89,7 @@
         <hr class="featurette-divider" style="margin: 20px; background-color: #fff"">
         <div class="card-deck" >
           <div class="card" >
-            <img src="C:\Users\Cristiano\Documents\Site Mare Motos\img\img_card_anuncio\card_moto_azul_01.jpg"  class="card-img-top" alt="...">
+            <img src="Midias\img\img_card_anuncio\card_moto_azul_01.jpg"  class="card-img-top" alt="...">
             <div class="card-body" >
               <h5 class="card-title">Modelo da Moto</h5>
               <p class="card-text">Descrição das condições de compra da moto e outras informações.</p>
@@ -97,7 +97,7 @@
             </div>
           </div>
           <div class="card"  >
-            <img src="C:\Users\Cristiano\Documents\Site Mare Motos\img\img_card_anuncio\card_moto_azul_02.jpg" class="card-img-top" alt="...">
+            <img src="Midias\img\img_card_anuncio\card_moto_azul_01.jpg" class="card-img-top" alt="...">
             <div class="card-body">
               <h5 class="card-title">Modelo da Moto</h5>
               <p class="card-text">Descrição das condições de compra da moto e outras informações.</p>
@@ -105,7 +105,7 @@
             </div>
           </div>
           <div class="card"  >
-           <img src="C:\Users\Cristiano\Documents\Site Mare Motos\img\img_card_anuncio\card_moto_cinza.jpg" class="card-img-top" alt="...">
+           <img src="Midias\img\img_card_anuncio\card_moto_cinza.jpg" class="card-img-top" alt="...">
             <div class="card-body">
               <h5 class="card-title">Modelo da Moto</h5>
               <p class="card-text">Descrição das condições de compra da moto e outras informações.</p>
@@ -113,7 +113,7 @@
             </div>
           </div>
           <div class="card"  >
-            <img src="C:\Users\Cristiano\Documents\Site Mare Motos\img\img_card_anuncio\card_moto_laranja.jpg" class="card-img-top" alt="...">
+            <img src="Midias\img\img_card_anuncio\card_moto_laranja.jpg" class="card-img-top" alt="...">
             <div class="card-body">
               <h5 class="card-title">Modelo da Moto</h5>
               <p class="card-text">Descrição das condições de compra da moto e outras informações.</p>
@@ -121,7 +121,7 @@
             </div>
           </div>
           <div class="card"  >
-            <img src="C:\Users\Cristiano\Documents\Site Mare Motos\img\img_card_anuncio\card_moto_azul_01.jpg"  class="card-img-top" alt="...">
+            <img src="Midias\img\img_card_anuncio\card_moto_azul_01.jpg"  class="card-img-top" alt="...">
             <div class="card-body" >
               <h5 class="card-title">Modelo da Moto</h5>
               <p class="card-text">Descrição das condições de compra da moto e outras informações.</p>
@@ -153,7 +153,7 @@
             <p class="lead">Venda e compra de motos. Fazemos financiamento de até 100% do valor.<br> Saia com sua moto .</p>
           </div>
           <div class="col-md-5">
-            <img class="featurette-image img-fluid mx-auto" src="C:\Users\Cristiano\Documents\Site Mare Motos\img\img_textos\banner_01.jpg" data-src="" alt="Generic placeholder image">
+            <img class="featurette-image img-fluid mx-auto" src="Midias\img\img_textos\banner_01.jpg" data-src="" alt="Generic placeholder image">
           </div>
         </div>
 
@@ -179,10 +179,10 @@
     
     
     <!--<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>-->
-    <script src="C:\Users\Cristiano\Documents\Site Mare Motos\bootstrap\bootstrap-4.5.2-dist\js\bootstrap.min.js" ></script>
+    <script src="Views\style\framework\bootstrap\bootstrap-4.5.2-dist\js\bootstrap.min.js" ></script>
     
     <!-- scripts da página inicial -->
-    <script src="C:\Users\Cristiano\Documents\Site Mare Motos\js\script_pagina_inicial.js"></script>
+    <script src="Views\style\style-proprietario\script\script_pagina_inicial.js"></script>
     
     
   </body>
